@@ -1,2 +1,3 @@
 # Project_LASSO
  Use lasso to select a descriptor for predicting the abrasion resistance of steels
+The aim of this work is to develop a prediction model of abrasion resistance of steels on standard mechanical properties determined by tensile test and hardness test in the lab. The folder 'Dataset' comprises all the experimental data. The python code and the training results of each group of data are presented in 'LassoModels'. 
